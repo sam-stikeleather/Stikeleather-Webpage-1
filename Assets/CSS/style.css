@@ -58,8 +58,10 @@ figure {
 
 img {
     display: block;
+    height: 500px;
+    width: 500px;
     margin: 20px auto;
-    border: 30px solid orange;
+    border: 10px solid orange;
 }
 
 section {
